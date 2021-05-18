@@ -22,7 +22,7 @@
 
 **Intermediate**
 
-- College Name: __deeskha junior college<br>
+- College Name: __deeskha junior college__<br>
 - Branch : MPC<br>
 - Year Of Study: 2016 - 2018<br>
 - Precentage : 67%<br>
@@ -30,7 +30,7 @@
 
 **SSC**
 
-- SchoolName: __sree vidya high school<br>
+- SchoolName: __sree vidya high school__<br>
 - Year Of Study: 2016<br>
 - Precentage : 8.2%<br>
 - Address :  nandigam<br>
